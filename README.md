@@ -50,7 +50,6 @@ Example session:
 > x + ans
 = 30
 > :vars
-Variables: 
  ans = 30
  x = 10
 ```
